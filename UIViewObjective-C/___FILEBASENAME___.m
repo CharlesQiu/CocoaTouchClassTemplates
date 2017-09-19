@@ -1,0 +1,22 @@
+//
+//  ___FILENAME___
+//  ___PROJECTNAME___
+//
+//  Created by Charles.Qiu on ___DATE___.
+//___COPYRIGHT___
+//  GitHub: https://github.com/CharlesQiu
+//
+
+#import "___FILEBASENAME___.h"
+
+@implementation ___FILEBASENAMEASIDENTIFIER___
+
+/*
+// Only override drawRect: if you perform custom drawing.
+// An empty implementation adversely affects performance during animation.
+- (void)drawRect:(CGRect)rect {
+    // Drawing code
+}
+*/
+
+@end
